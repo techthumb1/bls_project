@@ -1,10 +1,6 @@
 BLS
 
 ---
-BLS February 15, 2022
-
-
----
 <h1 id="moduleTitle"> Bureau of Labor and Statistics (Project)</h1>
 
 The Bureau of Labor and Statistics provides a wealth of data on economical factors within the U.S. on the micro and macro side. 
