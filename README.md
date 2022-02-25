@@ -1,5 +1,4 @@
-BLS
-
+JASON ROBINSON
 ---
 <h1 id="moduleTitle"> Bureau of Labor and Statistics (Project)</h1>
 
@@ -19,9 +18,14 @@ Subjects **NOT** included:
 * <a href="#p7">Topic 7</a>: Productivity and Technological Change
 * <a href="#p8">Topic 8</a>: Safety and Health Statistics
 
+
 ### Approach
 
-This project will consist of examining several branches of the BLS databases which are aggregated through surveys and other data collection methods. Will use custom dataset 
+This project will consist of examining several branches of the BLS databases which are aggregated through surveys and other data collection methods. Will use custom dataset of the Bureau of Labor and Statistics to create a dataset of economic factors.
+
+Upon completion of this project, the dataset will be used to create a dashboard that will allow the user to explore the economic factors of the U.S.
+
+The dashboard will allow the user to explore the economic factors of the U.S. by selecting a specific economic factor. The user will be able to select the year and the state to explore the economic factor of the U.S.
 
 Examination of the following objectives:
 * <a href="#p1">Objective 1</a>: Conduct EDA of each dataset
@@ -31,13 +35,13 @@ Examination of the following objectives:
 * <a href="#p5">Objective 5</a>: Visualizations
 * <a href="#p6">Objective 6</a>: Conclusion and results 
 
+
 ### Terms
 
-- Seas: Seasonal
-- Unadj: Unadjusted
-- CPI-U-Median:
-- CPI-U-RS:
-- CPI-U-Median:
+- Seas: _Seasonal Adjustment (SA)_ is a method of adjusting for seasonal variations in economic factors.
+- Unadj: _Unadjusted (U)_ is the original value of the economic factor.
+- CPI-U-Median: _Consumer Price Index (CPI)_ is a measure of the price level of the U.S. economy.
+- CPI-U-RS: _Consumer Price Index (CPI)_ is a measure of the price level of the U.S. economy.
 
 
 ### Features
@@ -55,6 +59,7 @@ The following features will be included in our analysis
 - [Producer Price Index](https://www.bls.gov/ppi/)
 - [Consumer Expenditure Survey](https://www.bls.gov/cex/) 
 - [Employment Hours and Earnings(National)](https://beta.bls.gov/dataViewer/view). 
+
 
 
 [BLS](https://www.bls.gov/) February 15, 2022
