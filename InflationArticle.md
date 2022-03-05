@@ -1,5 +1,5 @@
 
-# Inflation? A Statistical Examination of Increasing Costs and it's Impact on Consumers
+# What is Inflation? A Statistical Examination of Increasing Costs and it's Impact on Consumers
 
 ## What Is Inflation?
 
