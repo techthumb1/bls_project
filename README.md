@@ -1,8 +1,25 @@
 
+
 <h1 id="moduleTitle"> Bureau of Labor and Statistics (Project)</h1>
+
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Objectives](#objectives)
+- [Approach](#approach)
+- [Terms](#terms)
+- [Features](#features)
+- [Annex](#annex)
+- [References](#references)
+- [Conclusion](#conclusion)
+
+
+## Introduction
 
 The Bureau of Labor and Statistics provides a wealth of data on economical factors within the U.S. on the micro and macro side. 
 According to the bureau, "_The BLS is an independent national statistical agency that collects, processes, analyzes, and disseminates essential statistical data to the American public, the U.S. Congress, other Federal agencies, State and local governments, business, and labor. The BLS also serves as a statistical resource to the Department of Labor. BLS publishes information about the nation's economy: relating to employment, unemployment, and other characteristics of the labor force; consumer and producer prices, consumer expenditures, and import and export prices; wages and other worker compensation; productivity and technological change; employment projections; and safety and health statistics"_ (BLS 2022).These factors include:
+
 
 * <a href="#p1">Topic 1</a>: Cosumer Price Index
 * <a href="#p2">Topic 2</a>: Purchasing Price Index
@@ -62,3 +79,32 @@ The following features will be included in our analysis
 
 
 [BLS](https://www.bls.gov/) February 15, 2022
+
+
+## Annex:
+
+Further project development is welcomed as this is an open source project, with freely available public data. In expanding the project, the following features will be included:
+
+- Connecting to a custom database that will include many economic factors. Factors and conditions that can be quickly assessed due to efficient data collection methods, and fast processing times.
+
+- Creating a dashboard that will allow the user to explore the economic factors of the U.S. by selecting a specific economic factor. The user will be able to select the year and the state to explore the economic factor of the U.S.
+
+- Interactive data visualizations
+
+
+## Conclusion
+
+After examination of the data, the following conclusions were made:
+- Inflation and prices are the most important economic factors in the U.S.
+- Spending and time use are the least important economic factors in the U.S.
+- Employment and unemployment are the least important economic factors in the U.S.
+- Productivity and technological change are the least important economic factors in the U.S.
+
+
+The project has been completed in the following ways:
+- Conduct EDA of each dataset
+- Make comparisons
+- Perform Macro and Micro analysis
+- Use predictive analysis
+- Visualizations
+- Conclusion and results
