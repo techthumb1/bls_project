@@ -18,9 +18,9 @@
 ## Introduction
 
 The Bureau of Labor and Statistics provides a wealth of data on economical factors within the U.S. on the micro and macro side. 
-According to the bureau, "_The BLS is an independent national statistical agency that collects, processes, analyzes, and disseminates essential statistical data to the American public, the U.S. Congress, other Federal agencies, State and local governments, business, and labor. The BLS also serves as a statistical resource to the Department of Labor. BLS publishes information about the nation's economy: relating to employment, unemployment, and other characteristics of the labor force; consumer and producer prices, consumer expenditures, and import and export prices; wages and other worker compensation; productivity and technological change; employment projections; and safety and health statistics"_ (BLS 2022).These factors include:
+According to the bureau, "_The BLS is an independent national statistical agency that collects, processes, analyzes, and disseminates essential statistical data to the American public, the U.S. Congress, other Federal agencies, State and local governments, business, and labor. The BLS also serves as a statistical resource to the Department of Labor. BLS publishes information about the nation's economy: relating to employment, unemployment, and other characteristics of the labor force; consumer and producer prices, consumer expenditures, and import and export prices; wages and other worker compensation; productivity and technological change; employment projections; and safety and health statistics"_ (BLS 2022).
 
-
+These factors include:<br>
 * <a href="#p1">Topic 1</a>: Cosumer Price Index
 * <a href="#p2">Topic 2</a>: Purchasing Price Index
 * <a href="#p3">Topic 3</a>: Consumer Expenditure Survey
